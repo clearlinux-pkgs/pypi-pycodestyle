@@ -7,7 +7,7 @@
 #
 Name     : pypi-pycodestyle
 Version  : 2.12.1
-Release  : 87
+Release  : 88
 URL      : https://files.pythonhosted.org/packages/43/aa/210b2c9aedd8c1cbeea31a50e42050ad56187754b34eb214c46709445801/pycodestyle-2.12.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/43/aa/210b2c9aedd8c1cbeea31a50e42050ad56187754b34eb214c46709445801/pycodestyle-2.12.1.tar.gz
 Summary  : Python style guide checker
